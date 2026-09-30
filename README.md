@@ -5,8 +5,8 @@ Complete esta tabla al final del taller.
 | Rol | Nombre | Usuario de GitHub | Commit principal |
 | --- | --- | --- | --- |
 | Líder | David Sanchez  | dsebastiansr | [LIDER] personalizar botón y colores principales  |
-| Integrante 1 | Juan Navia  | DevKai92  |  Integrante 1: cambiar botón y cabeza de snake  |
-| Integrante 2 | Anthony Yepez | JNaviasf| Integrante 2: Cambiar boton y colector del gold  |
+| Integrante 1 | Juan Navia  | JNaviasf |  Integrante 1: cambiar botón y cabeza de snake  |
+| Integrante 2 | Anthony Yepez | DevKai92 | Integrante 2: Cambiar boton y colector del gold  |
 
 ## Evidencias
 
