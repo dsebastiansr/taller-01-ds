@@ -290,9 +290,7 @@ Complete esta tabla al final del taller.
 
 Coloque las capturas dentro de una carpeta llamada `capturas/` y enláselas en esta sección.
 
-Ejemplo:
 
-```markdown
 ### Líder
 
 Push exitoso:
@@ -318,7 +316,7 @@ Error antes de resolver conflicto:
 Push exitoso después de resolver conflicto:
 
 ![Push exitoso Integrante 2](capturas/resolucion-2.jpeg)
-```
+
 
 ## Recomendaciones para resolver conflictos
 
